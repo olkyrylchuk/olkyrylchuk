@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @olkyrylchuk
-- 👀 I am interested in a job with the possibility of gaining new experience
-- 🌱 I’m currently learning front-end course
+- 👋 Hello, my name is Sasha. 
+- 👀 I completed my front-end courses and am looking for my first job.
 
 
 <!---
